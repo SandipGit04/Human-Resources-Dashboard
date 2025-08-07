@@ -47,6 +47,10 @@ The income analysis section should focus on salary-related metrics, including:
 
 ## 👀 Dashboard Preview
 #### HR Dashboard - OverView
+<p align="center" width="100%">
+  <img width="70%" src="https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Summary.png" alt="HR Summary Dashboard" />
+</p>
+
 ![HR  Summary](https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Summary.png)
 #### HR Dashboard - Details
 ![HR  Details](https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Details.png)
@@ -62,6 +66,6 @@ The income analysis section should focus on salary-related metrics, including:
 ## 📱 Contact & Support
 For questions or support, reach out via:
 
-📩 : kundusandip004@gmail.com  
-**in** : https://www.linkedin.com/in/sandipin04/  
-𝕏 : https://x.com/SandipX04
+📩 : ![**Email**](kundusandip004@gmail.com)  
+**in** : ![**Linkedin**](https://www.linkedin.com/in/sandipin04/)  
+𝕏 : ![**X**](https://x.com/SandipX04)
