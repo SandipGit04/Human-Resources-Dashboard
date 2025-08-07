@@ -62,6 +62,6 @@ The income analysis section should focus on salary-related metrics, including:
 ## 📱 Contact & Support
 For questions or support, reach out via:
 
-📩 Email: [**kundusandip004@gmail.com**](kundusandip004@gmail.com)  
+📩 Email: [**kundusandip004@gmail.com**](mailto:kundusandip004@gmail.com)  
 🔗 LinkedIn: [**linkedin.com/in/sandipin04**](https://www.linkedin.com/in/sandipin04/)  
 𝕏 Twitter (X): [**@SandipX04**](https://x.com/SandipX04)
