@@ -47,14 +47,10 @@ The income analysis section should focus on salary-related metrics, including:
 
 ## 👀 Dashboard Preview
 #### HR Dashboard - OverView
-<p align="center" width="100%">
-  <img width="70%" src="https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Summary.png" alt="HR Summary Dashboard" />
-</p>
-
-![HR  Summary](https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Summary.png)
+![HR  Summary](https://raw.githubusercontent.com/SandipGit04/Human-Resources-Dashboard/refs/heads/main/Dashboard%20Images/HR%20Overview.png)
 #### HR Dashboard - Details
-![HR  Details](https://github.com/SandipGit04/Human-Resources-Dashboard/blob/main/Dashboard%20Images/HR%20%20Details.png)
-#### Dashboard Link: https://public.tableau.com/app/profile/sandip.kundu5209/viz/HRDashboard_17415918764130/HRSummary
+![HR  Details](https://raw.githubusercontent.com/SandipGit04/Human-Resources-Dashboard/refs/heads/main/Dashboard%20Images/HR%20Details.png)
+#### Interact With the Dashboard Here: ![HR Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/HRDashboard_17415918764130/HRSummary)
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Summary View & Employee Records View**.
@@ -66,6 +62,6 @@ The income analysis section should focus on salary-related metrics, including:
 ## 📱 Contact & Support
 For questions or support, reach out via:
 
-📩 : ![**Email**](kundusandip004@gmail.com)  
-**in** : ![**Linkedin**](https://www.linkedin.com/in/sandipin04/)  
-𝕏 : ![**X**](https://x.com/SandipX04)
+📩 : ![Email](kundusandip004@gmail.com)  
+**in** : ![Linkedin](https://www.linkedin.com/in/sandipin04/)  
+𝕏 : ![X](https://x.com/SandipX04)
