@@ -50,7 +50,7 @@ The income analysis section should focus on salary-related metrics, including:
 ![**HR  Summary**](https://raw.githubusercontent.com/SandipGit04/Human-Resources-Dashboard/refs/heads/main/Dashboard%20Images/HR%20Overview.png)
 #### HR Dashboard - Details
 ![**HR  Details**](https://raw.githubusercontent.com/SandipGit04/Human-Resources-Dashboard/refs/heads/main/Dashboard%20Images/HR%20Details.png)
-#### 🔗 Interact With the Dashboard Here: [HR Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/HRDashboard_17415918764130/HRSummary)
+#### 🔗 Interact With the Dashboard Here : [HR Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/HRDashboard_17415918764130/HRSummary)
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Summary View & Employee Records View**.
