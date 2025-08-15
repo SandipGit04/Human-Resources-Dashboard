@@ -38,9 +38,9 @@ The income analysis section should focus on salary-related metrics, including:
 
 ## 🎨 Color Reference
 
-| Color           | Hex Code  |
-|---------------|----------|
-| Dark Gray           | `#777777` |
+| Color          | Hex Code  |
+|----------------|-----------|
+| Dark Gray      | `#777777` |
 | White          | `#F5F5F5` |
 | Persian Green  | `#03C4A1` |
 | Royal Fuchsia  | `#C52A87` |
