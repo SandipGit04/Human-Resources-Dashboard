@@ -57,6 +57,7 @@ The income analysis section should focus on salary-related metrics, including:
 - Click on **info** to see more information.
 - Use **interactive filters** to refine results based on demographics, salary, and location.
 - Select **specific chart positions** to filter the dashboard accordingly.
+  
 ---
 
 ## 📱 Contact & Support
